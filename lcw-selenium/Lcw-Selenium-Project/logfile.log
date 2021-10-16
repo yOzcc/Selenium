@@ -1,0 +1,1212 @@
+2021-05-26 21:11:30,651 INFO  [Log] log_in() PASSED 
+2021-05-26 21:11:37,354 INFO  [Log] search_a_product() PASSED 
+2021-05-26 21:11:51,699 INFO  [Log] select_a_product() PASSED 
+2021-05-26 21:11:58,222 INFO  [Log] add_product_to_cart() PASSED 
+2021-05-26 21:12:01,527 INFO  [Log] go_to_cart() PASSED 
+2021-05-26 21:12:05,679 INFO  [Log] delete_product_to_cart() PASSED 
+2021-10-16 20:34:26,864 ERROR [Log] log_in() FAILED with cause : invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59712}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f1a677068c6f713f69e4b5f11c8fd92b
+*** Element info: {Using=id, value=} 
+2021-10-16 20:35:46,573 ERROR [Log] log_in() FAILED with cause : invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59749}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 40d61cb33bae740e14369f90b68fcfe0
+*** Element info: {Using=id, value=} 
+2021-10-16 20:37:16,486 ERROR [Log] log_in() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#oginLink"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:65309}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 81e8f91a8e8244ae84110dfb5d1563d6
+*** Element info: {Using=id, value=oginLink} 
+2021-10-16 20:38:10,422 ERROR [Log] log_in() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#oginLink"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57033}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d5012fae31d84ecbf21f09198dc66eb1
+*** Element info: {Using=id, value=oginLink} 
+2021-10-16 20:38:57,588 INFO  [Log] log_in() PASSED 
+2021-10-16 20:44:16,825 INFO  [Log] log_in() PASSED 
+2021-10-16 20:44:16,855 ERROR [Log] search_a_product() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"a[title='Tümünü Gör']"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62539}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8c6e80c28189d011bebb588b19992fbc
+*** Element info: {Using=css selector, value=a[title='Tümünü Gör']} 
+2021-10-16 20:44:20,874 ERROR [Log] select_a_product() FAILED with cause : null 
+2021-10-16 20:44:23,910 ERROR [Log] add_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"li[class='BgTxt Last padding-none']"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62539}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8c6e80c28189d011bebb588b19992fbc
+*** Element info: {Using=css selector, value=li[class='BgTxt Last padding-none']} 
+2021-10-16 20:44:23,927 ERROR [Log] go_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"a[class='header-cart-hidden-link']"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62539}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8c6e80c28189d011bebb588b19992fbc
+*** Element info: {Using=css selector, value=a[class='header-cart-hidden-link']} 
+2021-10-16 20:44:27,966 ERROR [Log] delete_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"a[title='Sil']"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62539}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8c6e80c28189d011bebb588b19992fbc
+*** Element info: {Using=css selector, value=a[title='Sil']} 
+2021-10-16 20:52:05,846 INFO  [Log] log_in() PASSED 
+2021-10-16 20:52:10,758 INFO  [Log] search_a_product() PASSED 
+2021-10-16 20:52:17,269 ERROR [Log] select_a_product() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#add\-to\-basket"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57495}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3df59c0ac9b50a30f7e13fae59e0b30a
+*** Element info: {Using=id, value=add-to-basket} 
+2021-10-16 20:52:20,319 ERROR [Log] add_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"li[class='BgTxt Last padding-none']"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57495}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3df59c0ac9b50a30f7e13fae59e0b30a
+*** Element info: {Using=css selector, value=li[class='BgTxt Last padding-none']} 
+2021-10-16 20:52:21,949 ERROR [Log] go_to_cart() FAILED with cause :  Cart is Empty.! ==> expected: <true> but was: <false> 
+2021-10-16 20:52:26,049 INFO  [Log] delete_product_to_cart() PASSED 
+2021-10-16 20:53:56,104 INFO  [Log] log_in() PASSED 
+2021-10-16 20:54:00,151 INFO  [Log] search_a_product() PASSED 
+2021-10-16 20:54:06,445 ERROR [Log] select_a_product() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#add\-to\-basket"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59448}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7b30de838d8d5434e4b2746769fb9ee6
+*** Element info: {Using=id, value=add-to-basket} 
+2021-10-16 20:54:09,482 ERROR [Log] add_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"li[class='BgTxt Last padding-none']"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59448}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7b30de838d8d5434e4b2746769fb9ee6
+*** Element info: {Using=css selector, value=li[class='BgTxt Last padding-none']} 
+2021-10-16 20:54:09,526 ERROR [Log] go_to_cart() FAILED with cause : element not interactable
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59448}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7b30de838d8d5434e4b2746769fb9ee6 
+2021-10-16 20:54:13,561 ERROR [Log] delete_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"a[title='Sil']"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59448}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7b30de838d8d5434e4b2746769fb9ee6
+*** Element info: {Using=css selector, value=a[title='Sil']} 
+2021-10-16 20:56:00,270 INFO  [Log] log_in() PASSED 
+2021-10-16 20:56:04,444 INFO  [Log] search_a_product() PASSED 
+2021-10-16 20:56:10,717 INFO  [Log] select_a_product() PASSED 
+2021-10-16 20:56:16,948 ERROR [Log] add_product_to_cart() FAILED with cause : For input string: "Sepetim" 
+2021-10-16 20:56:16,990 ERROR [Log] go_to_cart() FAILED with cause : element not interactable
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59463}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 931f2c26b902175262a2c888a78fcdce 
+2021-10-16 20:56:21,029 ERROR [Log] delete_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"a[title='Sil']"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59463}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 931f2c26b902175262a2c888a78fcdce
+*** Element info: {Using=css selector, value=a[title='Sil']} 
+2021-10-16 20:59:49,291 INFO  [Log] log_in() PASSED 
+2021-10-16 20:59:57,130 INFO  [Log] search_a_product() PASSED 
+2021-10-16 21:00:03,493 INFO  [Log] select_a_product() PASSED 
+2021-10-16 21:00:09,730 ERROR [Log] add_product_to_cart() FAILED with cause : For input string: "Sepetim" 
+2021-10-16 21:00:09,772 ERROR [Log] go_to_cart() FAILED with cause : element not interactable
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55274}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 259588c81b7b6231971ddf64c9ec7172 
+2021-10-16 21:00:13,805 ERROR [Log] delete_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"a[title='Sil']"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55274}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 259588c81b7b6231971ddf64c9ec7172
+*** Element info: {Using=css selector, value=a[title='Sil']} 
+2021-10-16 21:02:49,901 INFO  [Log] log_in() PASSED 
+2021-10-16 21:02:54,747 INFO  [Log] search_a_product() PASSED 
+2021-10-16 21:03:01,905 INFO  [Log] select_a_product() PASSED 
+2021-10-16 21:03:04,951 ERROR [Log] add_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"a[size='6-7 Yaş']"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64536}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ecf2da34d0c4da946b2b2db7dab54241
+*** Element info: {Using=css selector, value=a[size='6-7 Yaş']} 
+2021-10-16 21:03:04,990 ERROR [Log] go_to_cart() FAILED with cause : element not interactable
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64536}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ecf2da34d0c4da946b2b2db7dab54241 
+2021-10-16 21:03:09,025 ERROR [Log] delete_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"a[title='Sil']"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64536}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ecf2da34d0c4da946b2b2db7dab54241
+*** Element info: {Using=css selector, value=a[title='Sil']} 
+2021-10-16 21:07:11,843 INFO  [Log] log_in() PASSED 
+2021-10-16 21:07:15,704 INFO  [Log] search_a_product() PASSED 
+2021-10-16 21:07:21,590 ERROR [Log] select_a_product() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"a[class='add-to-cart button-link add-to-cart-button']"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57792}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 90352c8f1d885759c4be0783bef088ec
+*** Element info: {Using=css selector, value=a[class='add-to-cart button-link add-to-cart-button']} 
+2021-10-16 21:07:24,635 ERROR [Log] add_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"a[data-stock='20']"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57792}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 90352c8f1d885759c4be0783bef088ec
+*** Element info: {Using=css selector, value=a[data-stock='20']} 
+2021-10-16 21:07:24,665 ERROR [Log] go_to_cart() FAILED with cause : element not interactable
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57792}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 90352c8f1d885759c4be0783bef088ec 
+2021-10-16 21:07:28,708 ERROR [Log] delete_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"a[title='Sil']"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57792}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 90352c8f1d885759c4be0783bef088ec
+*** Element info: {Using=css selector, value=a[title='Sil']} 
+2021-10-16 21:07:56,279 INFO  [Log] log_in() PASSED 
+2021-10-16 21:08:01,200 INFO  [Log] search_a_product() PASSED 
+2021-10-16 21:08:07,513 INFO  [Log] select_a_product() PASSED 
+2021-10-16 21:08:10,548 ERROR [Log] add_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"a[data-stock='20']"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51200}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5a930009766e40ee5266d923837694cc
+*** Element info: {Using=css selector, value=a[data-stock='20']} 
+2021-10-16 21:08:10,584 ERROR [Log] go_to_cart() FAILED with cause : element not interactable
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51200}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5a930009766e40ee5266d923837694cc 
+2021-10-16 21:08:14,623 ERROR [Log] delete_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"a[title='Sil']"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51200}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5a930009766e40ee5266d923837694cc
+*** Element info: {Using=css selector, value=a[title='Sil']} 
+2021-10-16 21:11:10,406 INFO  [Log] log_in() PASSED 
+2021-10-16 21:11:15,403 INFO  [Log] search_a_product() PASSED 
+2021-10-16 21:11:22,392 INFO  [Log] select_a_product() PASSED 
+2021-10-16 21:11:29,705 ERROR [Log] add_product_to_cart() FAILED with cause : For input string: "1
+Sepetim" 
+2021-10-16 21:11:31,780 ERROR [Log] go_to_cart() FAILED with cause :  Cart is Empty.! ==> expected: <true> but was: <false> 
+2021-10-16 21:11:35,918 INFO  [Log] delete_product_to_cart() PASSED 
+2021-10-16 21:13:57,450 INFO  [Log] log_in() PASSED 
+2021-10-16 21:14:02,465 INFO  [Log] search_a_product() PASSED 
+2021-10-16 21:14:09,543 INFO  [Log] select_a_product() PASSED 
+2021-10-16 21:14:16,816 ERROR [Log] add_product_to_cart() FAILED with cause : For input string: "2
+Sepetim" 
+2021-10-16 21:14:18,655 ERROR [Log] go_to_cart() FAILED with cause :  Cart is Empty.! ==> expected: <true> but was: <false> 
+2021-10-16 21:14:22,717 ERROR [Log] delete_product_to_cart() FAILED with cause : element not interactable
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:65446}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: fb0d68810d3a2100e0a55854a0b79532 
+2021-10-16 21:16:10,996 INFO  [Log] log_in() PASSED 
+2021-10-16 21:16:15,215 INFO  [Log] search_a_product() PASSED 
+2021-10-16 21:16:21,410 INFO  [Log] select_a_product() PASSED 
+2021-10-16 21:16:28,650 ERROR [Log] add_product_to_cart() FAILED with cause : For input string: "2
+Sepetim" 
+2021-10-16 21:16:30,518 ERROR [Log] go_to_cart() FAILED with cause :  Cart is Empty.! ==> expected: <true> but was: <false> 
+2021-10-16 21:16:34,568 ERROR [Log] delete_product_to_cart() FAILED with cause : element not interactable
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51957}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a4d6cce66c4933674f545a7a36f6863d 
+2021-10-16 21:17:02,500 INFO  [Log] log_in() PASSED 
+2021-10-16 21:17:07,359 INFO  [Log] search_a_product() PASSED 
+2021-10-16 21:17:13,199 ERROR [Log] select_a_product() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"a[class='add-to-cart button-link add-to-cart-button']"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64331}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 34c7476529985aab9115e557e8258ee8
+*** Element info: {Using=css selector, value=a[class='add-to-cart button-link add-to-cart-button']} 
+2021-10-16 21:17:16,251 ERROR [Log] add_product_to_cart() FAILED with cause : element not interactable
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64331}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 34c7476529985aab9115e557e8258ee8 
+2021-10-16 21:17:16,283 ERROR [Log] go_to_cart() FAILED with cause : element not interactable
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64331}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 34c7476529985aab9115e557e8258ee8 
+2021-10-16 21:17:20,313 ERROR [Log] delete_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"a[class='inverted-modal-button sc-delete ins-init-condition-tracking']"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64331}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 34c7476529985aab9115e557e8258ee8
+*** Element info: {Using=css selector, value=a[class='inverted-modal-button sc-delete ins-init-condition-tracking']} 
+2021-10-16 21:17:50,261 INFO  [Log] log_in() PASSED 
+2021-10-16 21:17:55,046 INFO  [Log] search_a_product() PASSED 
+2021-10-16 21:18:01,293 INFO  [Log] select_a_product() PASSED 
+2021-10-16 21:18:08,358 ERROR [Log] add_product_to_cart() FAILED with cause : For input string: "Sepetim" 
+2021-10-16 21:18:08,400 ERROR [Log] go_to_cart() FAILED with cause : element not interactable
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57164}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: bc89b5edef1b8c8336e056cc30731eff 
+2021-10-16 21:18:12,437 ERROR [Log] delete_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"a[class='inverted-modal-button sc-delete ins-init-condition-tracking']"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57164}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: bc89b5edef1b8c8336e056cc30731eff
+*** Element info: {Using=css selector, value=a[class='inverted-modal-button sc-delete ins-init-condition-tracking']} 
+2021-10-16 21:18:51,152 INFO  [Log] log_in() PASSED 
+2021-10-16 21:18:55,201 INFO  [Log] search_a_product() PASSED 
+2021-10-16 21:19:01,872 INFO  [Log] select_a_product() PASSED 
+2021-10-16 21:19:09,052 ERROR [Log] add_product_to_cart() FAILED with cause : For input string: "Sepetim" 
+2021-10-16 21:19:09,096 ERROR [Log] go_to_cart() FAILED with cause : element not interactable
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51736}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5fc35e8b8e5b0a372e57e8b264eb4ec4 
+2021-10-16 21:19:13,127 ERROR [Log] delete_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"a[class='inverted-modal-button sc-delete ins-init-condition-tracking']"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51736}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5fc35e8b8e5b0a372e57e8b264eb4ec4
+*** Element info: {Using=css selector, value=a[class='inverted-modal-button sc-delete ins-init-condition-tracking']} 
+2021-10-16 21:20:19,383 INFO  [Log] log_in() PASSED 
+2021-10-16 21:20:24,187 INFO  [Log] search_a_product() PASSED 
+2021-10-16 21:20:30,889 INFO  [Log] select_a_product() PASSED 
+2021-10-16 21:20:36,915 ERROR [Log] add_product_to_cart() FAILED with cause : For input string: "2
+Sepetim" 
+2021-10-16 21:20:38,456 ERROR [Log] go_to_cart() FAILED with cause :  Cart is Empty.! ==> expected: <true> but was: <false> 
+2021-10-16 21:20:42,501 ERROR [Log] delete_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"a[class='inverted-modal-button sc-delete ins-init-condition-tracking']"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:54760}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5a41b7e9569fa16f7c900e0eedca5a25
+*** Element info: {Using=css selector, value=a[class='inverted-modal-button sc-delete ins-init-condition-tracking']} 
+2021-10-16 21:21:10,731 INFO  [Log] log_in() PASSED 
+2021-10-16 21:21:16,234 INFO  [Log] search_a_product() PASSED 
+2021-10-16 21:21:21,967 ERROR [Log] select_a_product() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"a[class='add-to-cart button-link add-to-cart-button']"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61091}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0ea44a5555c0a7fb56a93bc63bb7a766
+*** Element info: {Using=css selector, value=a[class='add-to-cart button-link add-to-cart-button']} 
+2021-10-16 21:21:24,027 ERROR [Log] add_product_to_cart() FAILED with cause : element not interactable
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61091}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0ea44a5555c0a7fb56a93bc63bb7a766 
+2021-10-16 21:21:24,059 ERROR [Log] go_to_cart() FAILED with cause : element not interactable
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61091}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0ea44a5555c0a7fb56a93bc63bb7a766 
+2021-10-16 21:21:28,088 ERROR [Log] delete_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"a[class='inverted-modal-button sc-delete ins-init-condition-tracking']"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61091}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0ea44a5555c0a7fb56a93bc63bb7a766
+*** Element info: {Using=css selector, value=a[class='inverted-modal-button sc-delete ins-init-condition-tracking']} 
+2021-10-16 21:21:53,684 INFO  [Log] log_in() PASSED 
+2021-10-16 21:21:57,681 INFO  [Log] search_a_product() PASSED 
+2021-10-16 21:22:04,216 INFO  [Log] select_a_product() PASSED 
+2021-10-16 21:22:10,247 ERROR [Log] add_product_to_cart() FAILED with cause : For input string: "1
+Sepetim" 
+2021-10-16 21:22:11,782 ERROR [Log] go_to_cart() FAILED with cause :  Cart is Empty.! ==> expected: <true> but was: <false> 
+2021-10-16 21:22:15,838 ERROR [Log] delete_product_to_cart() FAILED with cause : element not interactable
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52558}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 2e0228dfaa3e24739f84fc8acecb48ba 
+2021-10-16 21:25:52,534 INFO  [Log] log_in() PASSED 
+2021-10-16 21:25:57,878 INFO  [Log] search_a_product() PASSED 
+2021-10-16 21:26:04,638 INFO  [Log] select_a_product() PASSED 
+2021-10-16 21:26:10,915 ERROR [Log] add_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"spanCart"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64959}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: dca88e313afe32885ad68ca8c98da460
+*** Element info: {Using=css selector, value=spanCart} 
+2021-10-16 21:26:10,938 ERROR [Log] go_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#a\[href\=\'https\:\/\/www\.lcwaikiki\.com\/tr\-TR\/TR\/sepetim\'\]"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64959}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: dca88e313afe32885ad68ca8c98da460
+*** Element info: {Using=id, value=a[href='https://www.lcwaikiki.com/tr-TR/TR/sepetim']} 
+2021-10-16 21:26:14,975 ERROR [Log] delete_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"a[class='inverted-modal-button sc-delete ins-init-condition-tracking']"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64959}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: dca88e313afe32885ad68ca8c98da460
+*** Element info: {Using=css selector, value=a[class='inverted-modal-button sc-delete ins-init-condition-tracking']} 
+2021-10-16 21:26:43,268 INFO  [Log] log_in() PASSED 
+2021-10-16 21:26:43,292 ERROR [Log] search_a_product() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"a[href='/tr-TR/TR/FastDelivery']"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64505}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: cb6d5fb15c13cae81df33b7652b0a26d
+*** Element info: {Using=css selector, value=a[href='/tr-TR/TR/FastDelivery']} 
+2021-10-16 21:26:47,312 ERROR [Log] select_a_product() FAILED with cause : null 
+2021-10-16 21:27:11,804 INFO  [Log] log_in() PASSED 
+2021-10-16 21:27:11,830 ERROR [Log] search_a_product() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"a[href='/tr-TR/TR/FastDelivery']"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50318}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c74619286e64382c3154d1871e479520
+*** Element info: {Using=css selector, value=a[href='/tr-TR/TR/FastDelivery']} 
+2021-10-16 21:27:15,850 ERROR [Log] select_a_product() FAILED with cause : null 
+2021-10-16 21:27:30,016 ERROR [Log] add_product_to_cart() FAILED with cause : chrome not reachable
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50318}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c74619286e64382c3154d1871e479520
+*** Element info: {Using=css selector, value=a[key='2']} 
+2021-10-16 21:27:42,107 ERROR [Log] go_to_cart() FAILED with cause : chrome not reachable
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50318}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c74619286e64382c3154d1871e479520
+*** Element info: {Using=id, value=a[href='https://www.lcwaikiki.com/tr-TR/TR/sepetim']} 
+2021-10-16 21:27:58,259 ERROR [Log] delete_product_to_cart() FAILED with cause : chrome not reachable
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50318}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c74619286e64382c3154d1871e479520
+*** Element info: {Using=css selector, value=a[class='inverted-modal-button sc-delete ins-init-condition-tracking']} 
+2021-10-16 21:28:18,695 INFO  [Log] log_in() PASSED 
+2021-10-16 21:28:18,720 ERROR [Log] search_a_product() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"a[href='/tr-TR/TR/FastDelivery']"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62652}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 01e6866fd83539480320f6eca4fc0dac
+*** Element info: {Using=css selector, value=a[href='/tr-TR/TR/FastDelivery']} 
+2021-10-16 21:28:22,733 ERROR [Log] select_a_product() FAILED with cause : null 
+2021-10-16 21:28:24,767 ERROR [Log] add_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"a[key='2']"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62652}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 01e6866fd83539480320f6eca4fc0dac
+*** Element info: {Using=css selector, value=a[key='2']} 
+2021-10-16 21:28:24,782 ERROR [Log] go_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#a\[href\=\'https\:\/\/www\.lcwaikiki\.com\/tr\-TR\/TR\/sepetim\'\]"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62652}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 01e6866fd83539480320f6eca4fc0dac
+*** Element info: {Using=id, value=a[href='https://www.lcwaikiki.com/tr-TR/TR/sepetim']} 
+2021-10-16 21:28:28,819 ERROR [Log] delete_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"a[class='inverted-modal-button sc-delete ins-init-condition-tracking']"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62652}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 01e6866fd83539480320f6eca4fc0dac
+*** Element info: {Using=css selector, value=a[class='inverted-modal-button sc-delete ins-init-condition-tracking']} 
+2021-10-16 21:29:30,185 INFO  [Log] log_in() PASSED 
+2021-10-16 21:29:35,123 INFO  [Log] search_a_product() PASSED 
+2021-10-16 21:29:41,879 INFO  [Log] select_a_product() PASSED 
+2021-10-16 21:29:47,901 ERROR [Log] add_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"spanCart"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50963}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 94f89f6eea3f647737544ccc0c794057
+*** Element info: {Using=css selector, value=spanCart} 
+2021-10-16 21:29:47,923 ERROR [Log] go_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#a\[href\=\'https\:\/\/www\.lcwaikiki\.com\/tr\-TR\/TR\/sepetim\'\]"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50963}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 94f89f6eea3f647737544ccc0c794057
+*** Element info: {Using=id, value=a[href='https://www.lcwaikiki.com/tr-TR/TR/sepetim']} 
+2021-10-16 21:29:51,953 ERROR [Log] delete_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"a[class='inverted-modal-button sc-delete ins-init-condition-tracking']"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50963}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 94f89f6eea3f647737544ccc0c794057
+*** Element info: {Using=css selector, value=a[class='inverted-modal-button sc-delete ins-init-condition-tracking']} 
+2021-10-16 21:31:56,406 INFO  [Log] log_in() PASSED 
+2021-10-16 21:32:00,918 INFO  [Log] search_a_product() PASSED 
+2021-10-16 21:32:07,538 INFO  [Log] select_a_product() PASSED 
+2021-10-16 21:32:16,080 ERROR [Log] add_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"spanCart"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51521}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 37ab9c83874164bef71eadc761638605
+*** Element info: {Using=css selector, value=spanCart} 
+2021-10-16 21:32:16,101 ERROR [Log] go_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#a\[href\=\'https\:\/\/www\.lcwaikiki\.com\/tr\-TR\/TR\/sepetim\'\]"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51521}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 37ab9c83874164bef71eadc761638605
+*** Element info: {Using=id, value=a[href='https://www.lcwaikiki.com/tr-TR/TR/sepetim']} 
+2021-10-16 21:32:20,172 ERROR [Log] delete_product_to_cart() FAILED with cause : element not interactable
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51521}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 37ab9c83874164bef71eadc761638605 
+2021-10-16 21:33:30,455 INFO  [Log] log_in() PASSED 
+2021-10-16 21:33:35,703 INFO  [Log] search_a_product() PASSED 
+2021-10-16 21:33:42,027 INFO  [Log] select_a_product() PASSED 
+2021-10-16 21:33:50,777 ERROR [Log] add_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"spanCart"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62525}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 068b3c8d30f7f2ad89bbcd153b37e339
+*** Element info: {Using=css selector, value=spanCart} 
+2021-10-16 21:33:50,798 ERROR [Log] go_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#a\[href\=\'https\:\/\/www\.lcwaikiki\.com\/tr\-TR\/TR\/sepetim\'\]"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62525}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 068b3c8d30f7f2ad89bbcd153b37e339
+*** Element info: {Using=id, value=a[href='https://www.lcwaikiki.com/tr-TR/TR/sepetim']} 
+2021-10-16 21:33:54,834 ERROR [Log] delete_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"a[class='inverted-modal-button sc-delete ins-init-condition-tracking']"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62525}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 068b3c8d30f7f2ad89bbcd153b37e339
+*** Element info: {Using=css selector, value=a[class='inverted-modal-button sc-delete ins-init-condition-tracking']} 
+2021-10-16 21:35:36,874 INFO  [Log] log_in() PASSED 
+2021-10-16 21:35:41,422 INFO  [Log] search_a_product() PASSED 
+2021-10-16 21:35:47,996 INFO  [Log] select_a_product() PASSED 
+2021-10-16 21:35:56,456 ERROR [Log] add_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"spanCart"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63351}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 96d3b152f44134cec6be6de82b5402bc
+*** Element info: {Using=css selector, value=spanCart} 
+2021-10-16 21:35:56,478 ERROR [Log] go_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#a\[href\=\'https\:\/\/www\.lcwaikiki\.com\/tr\-TR\/TR\/sepetim\'\]"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63351}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 96d3b152f44134cec6be6de82b5402bc
+*** Element info: {Using=id, value=a[href='https://www.lcwaikiki.com/tr-TR/TR/sepetim']} 
+2021-10-16 21:36:01,319 ERROR [Log] delete_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#Cart_ProductDelete_686731442"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63351}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 96d3b152f44134cec6be6de82b5402bc
+*** Element info: {Using=id, value=Cart_ProductDelete_686731442} 
+2021-10-16 21:37:48,373 INFO  [Log] log_in() PASSED 
+2021-10-16 21:37:52,594 INFO  [Log] search_a_product() PASSED 
+2021-10-16 21:37:58,816 INFO  [Log] select_a_product() PASSED 
+2021-10-16 21:38:07,208 ERROR [Log] add_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"spanCart"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57012}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 78b12abdbd9234f460454a1ad7dd4fc6
+*** Element info: {Using=css selector, value=spanCart} 
+2021-10-16 21:38:07,230 ERROR [Log] go_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#a\[href\=\'https\:\/\/www\.lcwaikiki\.com\/tr\-TR\/TR\/sepetim\'\]"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57012}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 78b12abdbd9234f460454a1ad7dd4fc6
+*** Element info: {Using=id, value=a[href='https://www.lcwaikiki.com/tr-TR/TR/sepetim']} 
+2021-10-16 21:38:12,947 INFO  [Log] delete_product_to_cart() PASSED 
+2021-10-16 21:39:52,062 INFO  [Log] log_in() PASSED 
+2021-10-16 21:39:56,813 INFO  [Log] search_a_product() PASSED 
+2021-10-16 21:40:02,597 ERROR [Log] select_a_product() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"a[class='add-to-cart button-link add-to-cart-button']"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55836}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a74f637a74f14cdec2bef942fe0696e3
+*** Element info: {Using=css selector, value=a[class='add-to-cart button-link add-to-cart-button']} 
+2021-10-16 21:40:04,653 ERROR [Log] add_product_to_cart() FAILED with cause : element not interactable
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55836}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a74f637a74f14cdec2bef942fe0696e3 
+2021-10-16 21:40:04,668 ERROR [Log] go_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#a\[href\=\'https\:\/\/www\.lcwaikiki\.com\/tr\-TR\/TR\/sepetim\'\]"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55836}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a74f637a74f14cdec2bef942fe0696e3
+*** Element info: {Using=id, value=a[href='https://www.lcwaikiki.com/tr-TR/TR/sepetim']} 
+2021-10-16 21:40:30,026 INFO  [Log] log_in() PASSED 
+2021-10-16 21:40:33,839 INFO  [Log] search_a_product() PASSED 
+2021-10-16 21:40:40,923 INFO  [Log] select_a_product() PASSED 
+2021-10-16 21:40:49,400 ERROR [Log] add_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"spanCart"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60837}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 13576142731374e35c3b8629173e9158
+*** Element info: {Using=css selector, value=spanCart} 
+2021-10-16 21:40:49,421 ERROR [Log] go_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#a\[href\=\'https\:\/\/www\.lcwaikiki\.com\/tr\-TR\/TR\/sepetim\'\]"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60837}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 13576142731374e35c3b8629173e9158
+*** Element info: {Using=id, value=a[href='https://www.lcwaikiki.com/tr-TR/TR/sepetim']} 
+2021-10-16 21:40:56,090 INFO  [Log] delete_product_to_cart() PASSED 
+2021-10-16 21:41:59,978 INFO  [Log] log_in() PASSED 
+2021-10-16 21:42:05,228 INFO  [Log] search_a_product() PASSED 
+2021-10-16 21:42:11,276 INFO  [Log] select_a_product() PASSED 
+2021-10-16 21:42:19,812 ERROR [Log] add_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"spanCart"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59451}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8b4b0a4ad80572770bea1c9c792c7697
+*** Element info: {Using=css selector, value=spanCart} 
+2021-10-16 21:42:19,832 ERROR [Log] go_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#a\[href\=\'https\:\/\/www\.lcwaikiki\.com\/tr\-TR\/TR\/sepetim\'\]"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59451}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8b4b0a4ad80572770bea1c9c792c7697
+*** Element info: {Using=id, value=a[href='https://www.lcwaikiki.com/tr-TR/TR/sepetim']} 
+2021-10-16 21:42:26,487 INFO  [Log] delete_product_to_cart() PASSED 
+2021-10-16 21:52:06,588 INFO  [Log] log_in() PASSED 
+2021-10-16 21:52:11,544 INFO  [Log] search_a_product() PASSED 
+2021-10-16 21:52:18,147 INFO  [Log] select_a_product() PASSED 
+2021-10-16 21:52:26,707 ERROR [Log] add_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"spanCart"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:54010}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 506c34dc3252982efcb36b34b29c8167
+*** Element info: {Using=css selector, value=spanCart} 
+2021-10-16 21:52:26,728 ERROR [Log] go_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#a\[href\=\'https\:\/\/www\.lcwaikiki\.com\/tr\-TR\/TR\/sepetim\'\]"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:54010}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 506c34dc3252982efcb36b34b29c8167
+*** Element info: {Using=id, value=a[href='https://www.lcwaikiki.com/tr-TR/TR/sepetim']} 
+2021-10-16 21:52:33,381 INFO  [Log] delete_product_to_cart() PASSED 
+2021-10-16 21:54:37,510 INFO  [Log] log_in() PASSED 
+2021-10-16 21:54:42,577 INFO  [Log] search_a_product() PASSED 
+2021-10-16 21:54:48,684 INFO  [Log] select_a_product() PASSED 
+2021-10-16 21:54:57,144 ERROR [Log] add_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#a\[href\=\'https\:\/\/www\.lcwaikiki\.com\/tr\-TR\/TR\/sepetim\'\]"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51802}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d2e9308a48e223ca26fbdff90be6fbf3
+*** Element info: {Using=id, value=a[href='https://www.lcwaikiki.com/tr-TR/TR/sepetim']} 
+2021-10-16 21:54:57,162 ERROR [Log] go_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#a\[href\=\'https\:\/\/www\.lcwaikiki\.com\/tr\-TR\/TR\/sepetim\'\]"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51802}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d2e9308a48e223ca26fbdff90be6fbf3
+*** Element info: {Using=id, value=a[href='https://www.lcwaikiki.com/tr-TR/TR/sepetim']} 
+2021-10-16 21:55:03,798 INFO  [Log] delete_product_to_cart() PASSED 
+2021-10-16 21:59:26,326 INFO  [Log] log_in() PASSED 
+2021-10-16 21:59:31,264 INFO  [Log] search_a_product() PASSED 
+2021-10-16 21:59:38,458 INFO  [Log] select_a_product() PASSED 
+2021-10-16 21:59:47,261 ERROR [Log] add_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#a\[class\=\'oq\-up\ plus\'\]"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61441}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 724d17333a51b8a5cedf7f2059e80da2
+*** Element info: {Using=id, value=a[class='oq-up plus']} 
+2021-10-16 21:59:47,281 ERROR [Log] go_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#a\[class\=\'oq\-up\ plus\'\]"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61441}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 724d17333a51b8a5cedf7f2059e80da2
+*** Element info: {Using=id, value=a[class='oq-up plus']} 
+2021-10-16 21:59:51,933 INFO  [Log] delete_product_to_cart() PASSED 
+2021-10-16 22:01:11,156 INFO  [Log] log_in() PASSED 
+2021-10-16 22:01:15,221 INFO  [Log] search_a_product() PASSED 
+2021-10-16 22:01:21,286 INFO  [Log] select_a_product() PASSED 
+2021-10-16 22:01:29,789 ERROR [Log] add_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#a\[class\=\'oq\-up\ plus\'\]"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55779}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 63e2d696903525ab4f9c813ccdce2661
+*** Element info: {Using=id, value=a[class='oq-up plus']} 
+2021-10-16 22:01:29,809 ERROR [Log] go_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#a\[class\=\'oq\-up\ plus\'\]"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55779}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 63e2d696903525ab4f9c813ccdce2661
+*** Element info: {Using=id, value=a[class='oq-up plus']} 
+2021-10-16 22:01:34,458 INFO  [Log] delete_product_to_cart() PASSED 
+2021-10-16 22:03:13,257 INFO  [Log] log_in() PASSED 
+2021-10-16 22:03:18,292 INFO  [Log] search_a_product() PASSED 
+2021-10-16 22:03:24,754 INFO  [Log] select_a_product() PASSED 
+2021-10-16 22:03:33,508 ERROR [Log] add_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#a\[class\=\'oq\-up\ plus\'\]"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55351}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 002541a64e6300ed821ccba1052da3f2
+*** Element info: {Using=id, value=a[class='oq-up plus']} 
+2021-10-16 22:03:33,528 ERROR [Log] go_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#a\[class\=\'oq\-up\ plus\'\]"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55351}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 002541a64e6300ed821ccba1052da3f2
+*** Element info: {Using=id, value=a[class='oq-up plus']} 
+2021-10-16 22:03:38,184 INFO  [Log] delete_product_to_cart() PASSED 
+2021-10-16 22:06:17,481 INFO  [Log] log_in() PASSED 
+2021-10-16 22:06:21,999 INFO  [Log] search_a_product() PASSED 
+2021-10-16 22:06:28,298 INFO  [Log] select_a_product() PASSED 
+2021-10-16 22:06:37,972 INFO  [Log] add_product_to_cart() PASSED 
+2021-10-16 22:06:38,117 ERROR [Log] go_to_cart() FAILED with cause :  Cart is Empty.! ==> expected: <true> but was: <false> 
+2021-10-16 22:06:42,737 INFO  [Log] delete_product_to_cart() PASSED 
+2021-10-16 22:10:53,112 INFO  [Log] log_in() PASSED 
+2021-10-16 22:11:11,084 INFO  [Log] log_in() PASSED 
+2021-10-16 22:11:15,754 INFO  [Log] search_a_product() PASSED 
+2021-10-16 22:11:22,548 INFO  [Log] select_a_product() PASSED 
+2021-10-16 22:11:30,930 INFO  [Log] add_product_to_cart() PASSED 
+2021-10-16 22:11:31,101 INFO  [Log] go_to_cart() PASSED 
+2021-10-16 22:11:35,698 INFO  [Log] delete_product_to_cart() PASSED 
+2021-10-16 22:21:09,161 INFO  [Log] log_in() PASSED 
+2021-10-16 22:21:13,979 INFO  [Log] search_a_product() PASSED 
+2021-10-16 22:21:20,756 INFO  [Log] select_a_product() PASSED 
+2021-10-16 22:21:29,074 INFO  [Log] add_product_to_cart() PASSED 
+2021-10-16 22:21:29,264 INFO  [Log] go_to_cart() PASSED 
+2021-10-16 22:21:29,268 ERROR [Log] ifPriceisequals() FAILED with cause : Price doesn't equals ==> expected: <true> but was: <false> 
+2021-10-16 22:21:33,895 INFO  [Log] delete_product_to_cart() PASSED 
+2021-10-16 22:28:16,416 INFO  [Log] log_in() PASSED 
+2021-10-16 22:28:21,201 INFO  [Log] search_a_product() PASSED 
+2021-10-16 22:28:27,021 INFO  [Log] select_a_product() PASSED 
+2021-10-16 22:28:35,569 INFO  [Log] add_product_to_cart() PASSED 
+2021-10-16 22:28:35,758 INFO  [Log] go_to_cart() PASSED 
+2021-10-16 22:28:35,761 ERROR [Log] ifPriceisequals() FAILED with cause : Price doesn't equals.! ==> expected: <true> but was: <false> 
+2021-10-16 22:28:40,391 INFO  [Log] delete_product_to_cart() PASSED 
+2021-10-16 22:33:01,095 INFO  [Log] log_in() PASSED 
+2021-10-16 22:33:05,181 INFO  [Log] search_a_product() PASSED 
+2021-10-16 22:33:11,185 INFO  [Log] select_a_product() PASSED 
+2021-10-16 22:33:19,624 INFO  [Log] add_product_to_cart() PASSED 
+2021-10-16 22:33:19,801 INFO  [Log] go_to_cart() PASSED 
+2021-10-16 22:33:19,805 ERROR [Log] ifPriceisequals() FAILED with cause : Price doesn't equals.! ==> expected: <true> but was: <false> 
+2021-10-16 22:33:24,458 INFO  [Log] delete_product_to_cart() PASSED 
+2021-10-16 22:53:23,303 INFO  [Log] goToSite() PASSED 
+2021-10-16 22:53:23,346 ERROR [Log] log_in() FAILED with cause : element not interactable
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52684}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8fea00d3e361b2bc64bf599041cc7959 
+2021-10-16 22:53:23,515 ERROR [Log] search_a_product() FAILED with cause : It's not home page.! ==> expected: <true> but was: <false> 
+2021-10-16 22:53:27,532 ERROR [Log] select_a_product() FAILED with cause : null 
+2021-10-16 22:53:29,571 ERROR [Log] add_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"a[key='2']"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52684}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8fea00d3e361b2bc64bf599041cc7959
+*** Element info: {Using=css selector, value=a[key='2']} 
+2021-10-16 22:53:29,585 ERROR [Log] go_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"a[class='oq-up plus']"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52684}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8fea00d3e361b2bc64bf599041cc7959
+*** Element info: {Using=css selector, value=a[class='oq-up plus']} 
+2021-10-16 22:53:29,587 ERROR [Log] ifPriceisequals() FAILED with cause : Price doesn't equals.! ==> expected: <true> but was: <false> 
+2021-10-16 22:53:32,430 ERROR [Log] delete_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"a[title='Sil']"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52684}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8fea00d3e361b2bc64bf599041cc7959
+*** Element info: {Using=css selector, value=a[title='Sil']} 
+2021-10-16 22:53:46,722 INFO  [Log] goToSite() PASSED 
+2021-10-16 22:53:46,781 ERROR [Log] log_in() FAILED with cause : element not interactable
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64032}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: efcd21792b82c55ba15b06f84505cc7c 
+2021-10-16 22:53:46,841 ERROR [Log] search_a_product() FAILED with cause : It's not home page.! ==> expected: <true> but was: <false> 
+2021-10-16 22:53:50,864 ERROR [Log] select_a_product() FAILED with cause : null 
+2021-10-16 22:53:52,907 ERROR [Log] add_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"a[key='2']"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64032}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: efcd21792b82c55ba15b06f84505cc7c
+*** Element info: {Using=css selector, value=a[key='2']} 
+2021-10-16 22:53:52,936 ERROR [Log] go_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"a[class='oq-up plus']"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64032}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: efcd21792b82c55ba15b06f84505cc7c
+*** Element info: {Using=css selector, value=a[class='oq-up plus']} 
+2021-10-16 22:53:52,937 ERROR [Log] ifPriceisequals() FAILED with cause : Price doesn't equals.! ==> expected: <true> but was: <false> 
+2021-10-16 22:53:55,764 ERROR [Log] delete_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"a[title='Sil']"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64032}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: efcd21792b82c55ba15b06f84505cc7c
+*** Element info: {Using=css selector, value=a[title='Sil']} 
+2021-10-16 22:55:02,994 ERROR [Log] goToSite() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"span[class='closeBtn']"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64384}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ed9804a40ce9da67ee1e8e9465456570
+*** Element info: {Using=css selector, value=span[class='closeBtn']} 
+2021-10-16 22:55:03,734 ERROR [Log] log_in() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#LoginEmail"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64384}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ed9804a40ce9da67ee1e8e9465456570
+*** Element info: {Using=id, value=LoginEmail} 
+2021-10-16 22:55:08,668 INFO  [Log] search_a_product() PASSED 
+2021-10-16 22:55:15,917 INFO  [Log] select_a_product() PASSED 
+2021-10-16 22:55:30,083 ERROR [Log] add_product_to_cart() FAILED with cause : chrome not reachable
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64384}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ed9804a40ce9da67ee1e8e9465456570
+*** Element info: {Using=css selector, value=a[key='2']} 
+2021-10-16 22:55:47,910 ERROR [Log] goToSite() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"span[class='closeBtn']"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50399}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f494e9016839e99aa463e01f88afaab8
+*** Element info: {Using=css selector, value=span[class='closeBtn']} 
+2021-10-16 22:55:48,652 ERROR [Log] log_in() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#LoginEmail"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50399}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f494e9016839e99aa463e01f88afaab8
+*** Element info: {Using=id, value=LoginEmail} 
+2021-10-16 22:55:53,733 INFO  [Log] search_a_product() PASSED 
+2021-10-16 22:56:01,256 INFO  [Log] select_a_product() PASSED 
+2021-10-16 22:56:15,406 ERROR [Log] add_product_to_cart() FAILED with cause : chrome not reachable
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50399}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f494e9016839e99aa463e01f88afaab8
+*** Element info: {Using=css selector, value=a[key='2']} 
+2021-10-16 22:56:27,541 ERROR [Log] go_to_cart() FAILED with cause : chrome not reachable
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50399}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f494e9016839e99aa463e01f88afaab8
+*** Element info: {Using=css selector, value=a[class='oq-up plus']} 
+2021-10-16 22:56:27,545 ERROR [Log] ifPriceisequals() FAILED with cause : Price doesn't equals.! ==> expected: <true> but was: <false> 
+2021-10-16 22:56:50,927 INFO  [Log] goToSite() PASSED 
+2021-10-16 22:56:59,935 INFO  [Log] log_in() PASSED 
+2021-10-16 22:57:04,435 INFO  [Log] search_a_product() PASSED 
+2021-10-16 22:57:10,751 INFO  [Log] select_a_product() PASSED 
+2021-10-16 22:57:19,209 INFO  [Log] add_product_to_cart() PASSED 
+2021-10-16 22:57:19,382 INFO  [Log] go_to_cart() PASSED 
+2021-10-16 22:57:19,386 ERROR [Log] ifPriceisequals() FAILED with cause : Price doesn't equals.! ==> expected: <true> but was: <false> 
+2021-10-16 22:57:24,002 INFO  [Log] delete_product_to_cart() PASSED 
+2021-10-16 23:07:58,781 INFO  [Log] go_to_site() PASSED 
+2021-10-16 23:08:08,424 INFO  [Log] log_in() PASSED 
+2021-10-16 23:08:13,809 INFO  [Log] search_a_product() PASSED 
+2021-10-16 23:08:20,175 ERROR [Log] select_a_product() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"a[class='add-to-cart button-link add-to-cart-button']"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55787}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c2eb1449e65ac2b4443057870998f55f
+*** Element info: {Using=css selector, value=a[class='add-to-cart button-link add-to-cart-button']} 
+2021-10-16 23:08:22,239 ERROR [Log] add_product_to_cart() FAILED with cause : element not interactable
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55787}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c2eb1449e65ac2b4443057870998f55f 
+2021-10-16 23:08:22,254 ERROR [Log] go_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"a[class='oq-up plus']"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55787}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c2eb1449e65ac2b4443057870998f55f
+*** Element info: {Using=css selector, value=a[class='oq-up plus']} 
+2021-10-16 23:08:22,257 ERROR [Log] if_price_is_equals() FAILED with cause : Price doesn't equals.! ==> expected: <true> but was: <false> 
+2021-10-16 23:08:25,104 ERROR [Log] delete_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"a[title='Sil']"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55787}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c2eb1449e65ac2b4443057870998f55f
+*** Element info: {Using=css selector, value=a[title='Sil']} 
+2021-10-16 23:08:44,094 INFO  [Log] go_to_site() PASSED 
+2021-10-16 23:08:53,199 INFO  [Log] log_in() PASSED 
+2021-10-16 23:08:57,966 INFO  [Log] search_a_product() PASSED 
+2021-10-16 23:09:04,897 INFO  [Log] select_a_product() PASSED 
+2021-10-16 23:09:13,496 INFO  [Log] add_product_to_cart() PASSED 
+2021-10-16 23:09:13,734 INFO  [Log] go_to_cart() PASSED 
+2021-10-16 23:09:13,740 ERROR [Log] if_price_is_equals() FAILED with cause : Price doesn't equals.! ==> expected: <true> but was: <false> 
+2021-10-16 23:09:18,412 INFO  [Log] delete_product_to_cart() PASSED 
+2021-10-16 23:10:23,366 INFO  [Log] go_to_site() PASSED 
+2021-10-16 23:10:31,952 INFO  [Log] log_in() PASSED 
+2021-10-16 23:10:38,047 INFO  [Log] search_a_product() PASSED 
+2021-10-16 23:10:44,855 INFO  [Log] select_a_product() PASSED 
+2021-10-16 23:10:53,760 INFO  [Log] add_product_to_cart() PASSED 
+2021-10-16 23:10:54,001 INFO  [Log] go_to_cart() PASSED 
+2021-10-16 23:10:54,005 ERROR [Log] if_price_is_equals() FAILED with cause : Price doesn't equals.! ==> expected: <true> but was: <false> 
+2021-10-16 23:10:58,647 INFO  [Log] delete_product_to_cart() PASSED 
+2021-10-16 23:14:13,292 INFO  [Log] go_to_site() PASSED 
+2021-10-16 23:14:22,961 INFO  [Log] log_in() PASSED 
+2021-10-16 23:14:28,201 INFO  [Log] search_a_product() PASSED 
+2021-10-16 23:14:34,551 INFO  [Log] select_a_product() PASSED 
+2021-10-16 23:14:43,326 INFO  [Log] add_product_to_cart() PASSED 
+2021-10-16 23:14:43,526 INFO  [Log] go_to_cart() PASSED 
+2021-10-16 23:14:43,530 ERROR [Log] if_price_is_equals() FAILED with cause : Price doesn't equals.! ==> expected: <true> but was: <false> 
+2021-10-16 23:14:48,165 INFO  [Log] delete_product_to_cart() PASSED 
+2021-10-16 23:16:34,473 ERROR [Log] if_price_is_equals() FAILED with cause : Price doesn't equals.! ==> expected: <true> but was: <false> 
+2021-10-16 23:19:51,682 INFO  [Log] go_to_site() PASSED 
+2021-10-16 23:20:00,291 INFO  [Log] log_in() PASSED 
+2021-10-16 23:20:05,547 INFO  [Log] search_a_product() PASSED 
+2021-10-16 23:20:11,635 ERROR [Log] select_a_product() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"a[class='add-to-cart button-link add-to-cart-button']"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53028}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9116f17564108596204018279b77189f
+*** Element info: {Using=css selector, value=a[class='add-to-cart button-link add-to-cart-button']} 
+2021-10-16 23:20:13,689 ERROR [Log] add_product_to_cart() FAILED with cause : element not interactable
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53028}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9116f17564108596204018279b77189f 
+2021-10-16 23:20:13,703 ERROR [Log] go_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"a[class='oq-up plus']"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53028}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9116f17564108596204018279b77189f
+*** Element info: {Using=css selector, value=a[class='oq-up plus']} 
+2021-10-16 23:20:13,706 ERROR [Log] if_price_is_equals() FAILED with cause : Price doesn't equals.! ==> expected: <true> but was: <false> 
+2021-10-16 23:20:16,545 ERROR [Log] delete_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"a[title='Sil']"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53028}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9116f17564108596204018279b77189f
+*** Element info: {Using=css selector, value=a[title='Sil']} 
+2021-10-16 23:20:52,675 INFO  [Log] go_to_site() PASSED 
+2021-10-16 23:21:01,012 INFO  [Log] log_in() PASSED 
+2021-10-16 23:21:05,976 INFO  [Log] search_a_product() PASSED 
+2021-10-16 23:21:12,054 ERROR [Log] select_a_product() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"a[class='add-to-cart button-link add-to-cart-button']"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52767}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b833e7b74d8e449f768a8745eb21c6e7
+*** Element info: {Using=css selector, value=a[class='add-to-cart button-link add-to-cart-button']} 
+2021-10-16 23:21:14,120 ERROR [Log] add_product_to_cart() FAILED with cause : element not interactable
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52767}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b833e7b74d8e449f768a8745eb21c6e7 
+2021-10-16 23:21:14,147 ERROR [Log] go_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"a[class='oq-up plus']"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52767}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b833e7b74d8e449f768a8745eb21c6e7
+*** Element info: {Using=css selector, value=a[class='oq-up plus']} 
+2021-10-16 23:21:14,150 ERROR [Log] if_price_is_equals() FAILED with cause : Price doesn't equals.! ==> expected: <true> but was: <false> 
+2021-10-16 23:21:17,000 ERROR [Log] delete_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"a[title='Sil']"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-4JVR80T', ip: '192.168.1.73', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_292'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Faruk\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52767}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b833e7b74d8e449f768a8745eb21c6e7
+*** Element info: {Using=css selector, value=a[title='Sil']} 
+2021-10-16 23:21:26,732 INFO  [Log] go_to_site() PASSED 
+2021-10-16 23:21:35,350 INFO  [Log] log_in() PASSED 
+2021-10-16 23:21:39,619 INFO  [Log] search_a_product() PASSED 
+2021-10-16 23:21:45,953 INFO  [Log] select_a_product() PASSED 
+2021-10-16 23:21:54,765 INFO  [Log] add_product_to_cart() PASSED 
+2021-10-16 23:21:54,967 INFO  [Log] go_to_cart() PASSED 
+2021-10-16 23:21:54,970 ERROR [Log] if_price_is_equals() FAILED with cause : Price doesn't equals.! ==> expected: <true> but was: <false> 
+2021-10-16 23:21:59,646 INFO  [Log] delete_product_to_cart() PASSED 
+2021-10-16 23:24:00,458 INFO  [Log] go_to_site() PASSED 
+2021-10-16 23:24:08,693 INFO  [Log] log_in() PASSED 
+2021-10-16 23:24:13,375 INFO  [Log] search_a_product() PASSED 
+2021-10-16 23:24:20,237 INFO  [Log] select_a_product() PASSED 
+2021-10-16 23:24:29,233 INFO  [Log] add_product_to_cart() PASSED 
+2021-10-16 23:24:29,486 INFO  [Log] go_to_cart() PASSED 
+2021-10-16 23:24:34,160 INFO  [Log] delete_product_to_cart() PASSED 
